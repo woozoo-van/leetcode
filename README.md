@@ -1,7 +1,3 @@
 # leetcode
-# leetcode
-# leetcode
-# leetcode
-# leetcode
-# leetcode
-# leetcode
+
+Hello World
